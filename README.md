@@ -1,1 +1,2 @@
-# fotPIT_gitflow
+# forPIT_gitflow
+Anda Židele
